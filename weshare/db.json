@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 1,
+      "firstname": "jaganath",
+      "lastname": "kumar",
+      "email": "jaganathkumar013@gmail.co",
+      "phonenumber": "09944628760",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "firstname": "jaganath",
+      "lastname": "kumar",
+      "email": "jaganathkumar13@gmail.co",
+      "phonenumber": "09944628760",
+      "password": "12345"
+    },
+    {
+      "id": 3,
+      "firstname": "jaganath",
+      "lastname": "kumar",
+      "email": "jaganathkumar13@gmail.com",
+      "phonenumber": "09944628760",
+      "password": "1234567"
+    },
+    {
+      "id": 4,
+      "firstname": "gowri",
+      "lastname": "amit",
+      "email": "gowri@gmail.com",
+      "phonenumber": "6381674793",
+      "password": "12345"
+    }
+  ]
+}
